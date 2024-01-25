@@ -1,0 +1,11 @@
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('dream11user','dream11password',1,'2024-01-25 20:51:25.366815',1);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('khushalb','7507066331',1,'2024-01-25 20:51:25.366815',2);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('ashwinib','9822556993',1,'2024-01-25 20:52:40.622612',3);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('sambodhb','9022505088',1,'2024-01-25 20:52:40.622612',4);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('prashant','9225592255',1,'2024-01-25 20:52:40.622612',5);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('kunal','9890098900',1,'2024-01-25 20:52:40.622612',6);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('jitendra','7276072760',1,'2024-01-25 20:52:40.622612',7);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('nishant','7387073870',1,'2024-01-25 20:52:40.622612',8);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('aman','7719077190',1,'2024-01-25 20:52:40.622612',9);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('piyush','8899556633',1,'2024-01-25 20:52:40.622612',10);
+INSERT INTO "public"."tbl_user_master" ("username","password","status","createdt","userid") VALUES ('mushraff','9986657441',1,'2024-01-25 20:52:40.622612',11);
